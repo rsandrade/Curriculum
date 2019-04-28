@@ -73,7 +73,7 @@ Olá, sou o Ricardo e este é meu CV. Sou formado em Arquivologia, desenvolvedor
 - Gestão de Comunidades
   - _Portal do Arquivista_
 - Facebook Ads
-  _Portal do Arquivista_
+  - _Portal do Arquivista_
 
 ## Docência
 
