@@ -4,6 +4,8 @@ Olá, sou o Ricardo e este é meu CV. Sou formado em Arquivologia, desenvolvedor
 
 ## Formação
 
+- Doutorado em Informação e Comunicação em Plataformas Digitais
+  - Universidade de Aveiro / Universidade do Porto, 2003-
 - Mestre em Ciência da Informação
   - Universidade Federal da Bahia, 2008-2010
 - Bacharel em Ciência da Informação
