@@ -5,7 +5,7 @@ Olá, sou o Ricardo e este é meu CV. Sou formado em Arquivologia, desenvolvedor
 ## Formação
 
 - Doutorado em Informação e Comunicação em Plataformas Digitais
-  - Universidade de Aveiro / Universidade do Porto, 2003-
+  - Universidade de Aveiro / Universidade do Porto (Portugal), 2003-
 - Mestre em Ciência da Informação
   - Universidade Federal da Bahia, 2008-2010
 - Bacharel em Ciência da Informação
@@ -21,9 +21,6 @@ Olá, sou o Ricardo e este é meu CV. Sou formado em Arquivologia, desenvolvedor
 - Arquivo Permanente
   - _Archives World Map_
   - _Legatum Sonus et Imago_
-- Associativismo e representação
-  _Associação dos Arquivistas da Bahia_
-  _Conselho Nacional de Arquivos_
 
 ## Desenvolvimento de software
 
@@ -57,15 +54,15 @@ Olá, sou o Ricardo e este é meu CV. Sou formado em Arquivologia, desenvolvedor
 - BTCpay Server
 - Wordpress (Woocommerce)
   - _9Bravos_
-  - _Flâneur_
-  - _Litecoin Foundation_
+  - _Flâneur (Portugal)_
+  - _Litecoin Foundation (Singapura)_
 
 ## Empreendedorismo
 
 - Empretec (Fev/2019)
 - Comércio Eletrônico
   - _9Bravos_ 
-  - _Flâneur_
+  - _Flâneur (Portugal)_
 - Ensino à Distância
   - _Yndexa Cursos_
 
@@ -82,6 +79,15 @@ Olá, sou o Ricardo e este é meu CV. Sou formado em Arquivologia, desenvolvedor
 
 - Tirocínio Docente (Metodologia de Pesquisa)
 
+## Associativismo e representação
+
+- Arquivologia
+  - _Presidente, Associação dos Arquivistas da Bahia_
+  - _Vice-Presidente, Associação dos Arquivistas da Bahia_
+  - _Conselheiro, Conselho Nacional de Arquivos_
+- Criptoativos
+  - _Litecoin Foundation (Singapura)_
+
 ## Outros interesses
 
 ### Finanças
@@ -95,12 +101,12 @@ Olá, sou o Ricardo e este é meu CV. Sou formado em Arquivologia, desenvolvedor
 - Lightning Network
   - _The Order of Archivists_
 - Litecoin
-  - _Litecoin Foundation_
+  - _Litecoin Foundation (Singapura)_
 
 ### Outros
 
 - Radioamadorismo
   - _PU6RIC_
 - Ouriversaria
-  - _Introdução à Ouriversaria_
+  - _Introdução à Ouriversaria (Portugal)_
 - Fotografia
