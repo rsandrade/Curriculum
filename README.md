@@ -26,20 +26,15 @@ Olá, sou o Ricardo e este é meu CV. Sou formado em Arquivologia, desenvolvedor
 
 ## Desenvolvimento de software
 
-### Linguagens de programação
-
-- PHP
+- PHP (back-end)
   - _Archives World Map_
-- Go
+- Go (back-end)
   - _Archives World Map_
   - _Portal do Arquivista_
-- Flutter
+- Flutter (front-end mobile)
   - _Portal do Arquivista_
-
-### Bases de Dados
-
-- MySQL
-- SQLite
+- MySQL (base de dados)
+- SQLite (base de dados)
 
 ## Infraestrutura
 
