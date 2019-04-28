@@ -1,6 +1,6 @@
 # Ricardo Andrade
 
-Olá, sou o Ricardo e este é meu CV. Sou formado em Arquivologia, desenvolvedor de software e pesquisador. Moro no Brasil, mas já morei em Portugal. Abaixo seguem minhas competências e áreas de interesse.
+Olá, sou o Ricardo e este é meu CV. Sou formado em Arquivologia, desenvolvedor de software e pesquisador. Moro no Brasil, mas já morei em Portugal. Abaixo seguem minhas experiências, competências e áreas de interesse.
 
 ## Formação
 
@@ -87,6 +87,8 @@ Olá, sou o Ricardo e este é meu CV. Sou formado em Arquivologia, desenvolvedor
   - _Presidente, Associação dos Arquivistas da Bahia_
   - _Vice-Presidente, Associação dos Arquivistas da Bahia_
   - _Conselheiro, Conselho Nacional de Arquivos_
+- Hackerativismo
+  - _Raul Hacker Club_
 - Criptoativos
   - _Litecoin Foundation (Singapura)_
 
