@@ -84,9 +84,8 @@ Olá, sou o Ricardo e este é meu CV. Sou formado em Arquivologia, desenvolvedor
 ## Associativismo e representação
 
 - Arquivologia
-  - _Presidente, Associação dos Arquivistas da Bahia_
-  - _Vice-Presidente, Associação dos Arquivistas da Bahia_
-  - _Conselheiro, Conselho Nacional de Arquivos_
+  - _Associação dos Arquivistas da Bahia_
+  - _Conselho Nacional de Arquivos_
 - Hackerativismo
   - _Raul Hacker Club_
 - Criptoativos
