@@ -52,7 +52,7 @@ Olá, sou o Ricardo e este é meu CV. Sou formado em Arquivologia, desenvolvedor
 ## Plataformas
 
 - BTCpay Server
-- Wordpress (Woocommerce)
+- Wordpress & Woocommerce
   - _9Bravos_
   - _Flâneur (Portugal)_
   - _Litecoin Foundation (Singapura)_
