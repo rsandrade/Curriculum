@@ -40,7 +40,7 @@ Olá, sou o Ricardo e este é meu CV. Sou formado em Arquivologia, desenvolvedor
 
 - Ubuntu Server
 - Apache
-- Memcache
+- Memcached
 - AWS (Amazon Web Services)
 - Google Cloud
 - Digital Ocean
