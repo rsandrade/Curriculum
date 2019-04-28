@@ -101,6 +101,7 @@ Olá, sou o Ricardo e este é meu CV. Sou formado em Arquivologia, desenvolvedor
 ### Criptoativos
 
 - Bitcoin
+  - _9Bravos_
 - Lightning Network
   - _The Order of Archivists_
 - Litecoin
