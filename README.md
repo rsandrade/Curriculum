@@ -19,6 +19,8 @@ Olá, sou o Ricardo e este é meu CV. Sou formado em Arquivologia, desenvolvedor
 ## Arquivologia
 
 - Arquivo Permanente
+  - _Universidade Federal da Bahia
+  - _Arquivo Público da Bahia_
   - _Archives World Map_
   - _Legatum Sonus et Imago_
 
