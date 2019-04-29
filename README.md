@@ -56,7 +56,7 @@ Olá, sou o Ricardo e este é meu CV. Sou formado em Arquivologia, desenvolvedor
 
 ## Empreendedorismo
 
-- Empretec (Fev/2019)
+- [Empretec](http://www.sebrae.com.br/sites/PortalSebrae/sebraeaz/empretec-fortaleca-suas-habilidades-como-empreendedor,db3c36627a963410VgnVCM1000003b74010aRCRD) (Fev/2019)
 - Comércio Eletrônico
   - _9Bravos_ 
   - _Flâneur (Portugal)_
